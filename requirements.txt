@@ -2,4 +2,9 @@ langchain-groq
 langchain-mcp-adapters
 mcp
 langgraph
+psycopg2
 dotenv
+pydantic==2.11.7 
+pydantic-settings==2.10.1 
+pydantic_core==2.33.2 
+mcp[cli]
